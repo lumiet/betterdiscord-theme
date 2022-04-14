@@ -1,0 +1,90 @@
+.theme-dark {
+    --background-primary: rgba(0,0,0,.4);
+    --background-secondary: transparent;
+    --background-secondary-alt:rgba(0,0,0,.4);
+    --background-tertiary: transparent;
+    --channeltextarea-background: transparent;
+    --text-normal: rgba(190,200,200);
+    --background-floating: rgba(0,0,0,.8);
+    --brand-experiment: rgba(25,200,200,.5);
+    --background-accent: rgba(25,130,75,.5);
+	--brand-experiment-100: rgba(25,200,200,.5);
+    --brand-experiment-130: rgba(25,200,200,.5);
+    --brand-experiment-160: rgba(25,200,200,.5);
+    --brand-experiment-200: rgba(25,200,200,.5);
+    --brand-experiment-230: rgba(25,200,200,.5);
+    --brand-experiment-260: rgba(25,200,200,.5);
+    --brand-experiment-300: rgba(25,200,200,.5);
+    --brand-experiment-330: rgba(25,200,200,.5);
+    --brand-experiment-360: rgba(25,200,200,.5);
+    --brand-experiment-400: rgba(25,200,200,.5);
+    --brand-experiment-430: rgba(25,200,200,.5);
+    --brand-experiment-460: rgba(25,200,200,.5);
+    --brand-experiment: rgba(25,200,200,.5);
+    --brand-experiment-500: rgba(25,200,200,.5);
+    --brand-experiment-530: rgba(25,200,200,.5);
+    --brand-experiment-560: rgba(25,200,200,.5);
+    --brand-experiment-600: rgba(25,200,200,.5);
+    --brand-experiment-630: rgba(25,200,200,.5);
+    --brand-experiment-660: rgba(25,200,200,.5);
+    --brand-experiment-700: rgba(25,200,200,.5);
+    --brand-experiment-730: rgba(25,200,200,.5);
+    --brand-experiment-760: rgba(25,200,200,.5);
+    --brand-experiment-800: rgba(25,200,200,.5);
+    --brand-experiment-830: rgba(25,200,200,.5);
+    --brand-experiment-860: rgba(25,200,200,.5);
+    --brand-experiment-900: rgba(25,200,200,.5);
+    --brand-experiment-05a: rgba(25,200,200,.5);
+    --brand-experiment-10a: rgba(25,200,200,.5);
+    --brand-experiment-15a: rgba(25,200,200,.5);
+    --brand-experiment-20a: rgba(25,200,200,.5);
+    --brand-experiment-25a: rgba(25,200,200,.5);
+    --brand-experiment-30a: rgba(25,200,200,.5);
+    --brand-experiment-35a: rgba(25,200,200,.5);
+    --brand-experiment-40a: rgba(25,200,200,.5);
+    --brand-experiment-45a: rgba(25,200,200,.5);
+    --brand-experiment-50a: rgba(25,200,200,.5);
+    --brand-experiment-55a: rgba(25,200,200,.5);
+    --brand-experiment-60a: rgba(25,200,200,.5);
+    --brand-experiment-65a: rgba(25,200,200,.5);
+    --brand-experiment-70a: rgba(25,200,200,.5);
+    --brand-experiment-75a: rgba(25,200,200,.5);
+    --brand-experiment-80a: rgba(25,200,200,.5);
+    --brand-experiment-85a: rgba(25,200,200,.5);
+    --brand-experiment-90a: rgba(25,200,200,.5);
+    --brand-experiment-95a: rgba(25,200,200,.5);
+}
+
+.bg-1QIAus {
+    background: url("https://i.imgur.com/gwbOCzZ.png"), linear-gradient(45deg, rgba(50,0,50,1) 60%, rgba(120,250,255,.6));
+    background-blend-mode: overlay,multiply, multiply;
+}
+.contents-2MsGLg, [aria-label*="replying to"], .embedFull-1HGV2S {
+    background: linear-gradient(to right, rgba(5,0,5,.3) 0%, rgba(5,0,5,.7) 5%, rgba(5,0,5.7), transparent 80%, transparent);
+    padding:3px;
+}
+.embedFull-1HGV2S {
+border-left-color: #000;    
+}
+.theme-dark .wrapper-1ZcZW- {
+	color: #aee;
+}
+
+[aria-label*="Send a gift"], [aria-label*="Open sticker"] {
+    display:none;
+}
+.avatar-2e8lTP {
+    filter: drop-shadow(0 0 10px #000);
+}
+.theme-dark .children-3xh0VB:after, .scroller-3X7KbA, .form-3gdLxP:before, .container-1NXEtd, .chat-2ZfjoI {
+    background:transparent;
+}
+.form-3gdLxP,.searchBar-2aylmZ,.theme-dark .container-2cd8Mz, .searchBar-2M9mRP, .wrapper-n2dlvs,.searchBar-3aIzc-, .search-2Mwzzq, .messagesPopoutWrap-3zryHW, .sidebar-1tnWFu, .channelTextArea-1FufC0, .reaction-2A2y9y, .reaction-2A2y9y:hover, .container-ZMc96U.themed-Hp1KC_ {
+    background: rgba(0,0,0,.4);
+}
+.theme-dark .footer-31IekZ, .container-2o3qEW,.contentWrapper-3vHNP2, .searchResultsWrap-5RVOkx, .wrapper-1_HaEi, .panels-3wFtMD {
+    background: rgba(0,0,0,.6);
+}
+.theme-dark .root-g14mjS, .withFrame-2dL45i.unicodeShortcut-3N8oDe, .header-1w9Q93 {
+    background: rgba(0,0,0,.8);
+}
